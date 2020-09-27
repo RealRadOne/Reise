@@ -1,3 +1,3 @@
-# Reise:wq
+# Reise
 Reise==Journey
-Get aboard with Reise on your day to day !
+An idiot's coding log made with everything she knew->(Bash+PowersHell)
